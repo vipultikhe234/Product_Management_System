@@ -1,4 +1,4 @@
-# 🛍️ Laravel E-Commerce Application (MNC Standard)
+# 🛍️ Laravel E-Commerce Application
 
 A robust, full-stack E-Commerce solution built with **Laravel 10**, featuring a premium **Admin Dashboard**, a customer-facing **Shopping Interface**, and a strictly typed **REST API**. Designed with a focus on clean architecture, security, and performance.
 
