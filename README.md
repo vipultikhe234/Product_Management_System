@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # Product Management System
-=======
-# 🛍️ Laravel E-Commerce Application
->>>>>>> d38dbef10ba421074d2ee956d0ec7be1b2da6f2b
 
 Laravel-based e-commerce application with Admin Panel and Customer API.
 
